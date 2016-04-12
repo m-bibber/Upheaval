@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+	<Includes>
+		<!-- GLOBAL DATA -->
+		
+		<!-- Objects -->
+		<Include type="all" source="Locale/Units.xml" />
+	</Includes>
+</AssetDeclaration>

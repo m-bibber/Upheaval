@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<AudioFile id="AUFutur_voiAttacka" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttacka.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttackb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttackb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttackc" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttackc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttackd" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttackd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttacke" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttacke.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttackf" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttackf.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttSpeca" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttSpeca.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttSpecb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttSpecb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttSpecc" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttSpecc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiAttSpecd" File="AUDIO:Units/Future Tank X-1/AUFutur_voiAttSpecd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiCreatea" File="AUDIO:Units/Future Tank X-1/AUFutur_voiCreatea.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiCreateb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiCreateb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMovea" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMovea.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMoveb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMoveb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMovec" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMovec.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMoved" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMoved.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMovee" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMovee.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMovef" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMovef.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMoveg" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMoveg.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMoveh" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMoveh.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMvAtta" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMvAtta.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMvAttb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMvAttb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMvAttc" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMvAttc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMvAttd" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMvAttd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiMvAtte" File="AUDIO:Units/Future Tank X-1/AUFutur_voiMvAtte.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelBata" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelBata.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelBatb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelBatb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelBatc" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelBatc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelBatd" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelBatd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelBate" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelBate.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelecta" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelecta.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelectb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelectb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelectc" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelectc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelectd" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelectd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelecte" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelecte.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelectf" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelectf.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelUnda" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelUnda.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelUndb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelUndb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelUndc" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelUndc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelUndd" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelUndd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSelUnde" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSelUnde.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSpeActa" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSpeActa.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSpeActb" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSpeActb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSpeActc" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSpeActc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="AUFutur_voiSpeActd" File="AUDIO:Units/Future Tank X-1/AUFutur_voiSpeActd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="MAIn_FutureTank" File="AUDIO:Units/Future Tank X-1/MAIn_FutureTank.wav" PCCompression="XAS" IsStreamedOnPC="true" GUIPreset="Default"/>
+</AssetDeclaration>

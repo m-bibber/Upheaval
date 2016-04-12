@@ -1,0 +1,585 @@
+// Archer Maiden
+	
+	NAME:JapanArcherInfantry
+		"Archer Maiden"
+	End
+	
+	DESC:JapanArcherInfantry
+		"Diese, aus den Reihen der Rocket Angels verstoßenen, Frauen kämpfen mit traditionelleren Mitteln."
+	End
+	
+	TYPE:JapanArcherInfantry
+		"Flugabwehr/Bodenabwehr"
+	End
+	
+	NAME:ArcherArrowBarrageSpecialPower
+		"Salvenschuss"
+	End
+	
+	DESC:ArcherArrowBarrageSpecialPower
+		"Feuert einen Spezialpfeil ab, der sich über dem Zielgebiet in unzählige weißglühende Infanterieschrapnelle aufspaltet."
+	End
+	
+	DIALOGEVENT:MIIN_ARCHERMAIDEN
+		"*Archer Maiden feuern mit ihren Energiebögen auf Luft- und Bodenziele.  Die Zerstörungskraft der vergleichsweise langsamen Bögen ist dabei enorm.  Mit ihrer Spezialfähigkeit können Archer Maiden mehrere Ziele gleichzeitig unter Beschuss nehmen."
+	End
+	
+	
+	
+// Cryo Legionnaire
+	
+	NAME:ALLIEDLEGIONNAIREINFANTRY
+		"Cryo-Legionär"
+	End
+	
+	DESC:ALLIEDLEGIONNAIREINFANTRY
+		"Eiskalte experimentelle Soldaten, die mit modernen Aktivpanzern und Cryowaffen ausgerüstet sind."
+	End
+	
+	TYPE:ALLIEDLEGIONNAIREINFANTRY
+		"Verbesserte Bodenabwehr"
+	End
+	
+	NAME:CRYOLEAPSPECIALPOWER
+		"Boost-Kick"
+	End
+	
+	DESC:CRYOLEAPSPECIALPOWER
+		"Stürzt sich mit den Füßen voraus auf das Ziel und fügt sämtlichen Gegnern im Zielgebiet Schaden zu."
+	End
+	
+	DESC:PLAYERPOWERHIGHTECHNOLOGY
+		"Verbessern Sie die Spezialfähigkeiten Ihrer Hunde, Guardian-Panzer, Cryocopter, Legionäre und Träger!"
+	End
+	
+	DIALOGEVENT:MAIN_CRYOLEGIONNAIRE
+		"*Cryo-Legionäre sind schwere Infanterieeinheiten, die mit ihren Kanonen mehrere Angreifer einige Sekunden lang zu Eis erstarren lassen können.  Mit ihrem speziellen Boost-Kick können sie gefrorene Ziele zerstören, in die Schlacht springen oder sich daraus zurückziehen."
+	End
+	
+	
+	
+// Desolator
+	
+	NAME:SovietDesolatorInfantry
+		"Desolator-Trooper"
+	End
+	
+	DESC:SovietDesolatorInfantry
+		"Ihre robusten Schutzanzüge bewahren diese Sadisten vor den schrecklichen Giften, die sie als Waffen benutzen."
+	End
+	
+	TYPE:SovietDesolatorInfantry
+		"Verbesserte Infanterieabwehr"
+	End
+	
+	NAME:DesolatorWeaponMode
+		"Splattershot-Modus"
+	End
+	
+	DESC:DesolatorWeaponMode
+		"Schaltet um auf den Abschuss von Kapseln mit panzerungszersetzendem Schmutz. Für optimale Ergebnisse mit Todesspray ausbringen!"
+	End
+	
+	NAME:DesolatorWeaponModeOff
+		"Todesspray-Modus"
+	End
+	
+	DESC:DesolatorWeaponModeOff
+		"Versprüht wieder giftige Substanzen, die Fleisch und Knochen zersetzen."
+	End
+	
+	DIALOGEVENT:MSIN_DESOLATOR1
+		"*Desolator-Trooper sind schwere Infanterieeinheiten, die in ihren ABC-Anzügen eingelagerte Toxine abfeuern.  Sie können ihre Toxine auf Infanterieeinheiten sprühen oder in den Splattershot-Modus wechseln, um mit Säure gefüllte Sprengkapseln auf Fahrzeuge abzufeuern.  Außerdem können sie besetzte Gebäude räumen."
+	End
+	
+	
+	
+// Future Tank X-1
+	
+	NAME:AlliedFutureTank
+		"Future Tank X-1"
+	End
+	
+	DESC:AlliedFutureTank
+		"Unbemannte Kriegsmaschinen, deren Neutronen-Scrambler ganze Panzerdivisionen zerstören können."
+	End
+	
+	TYPE:AlliedFutureTank
+		"Verbesserter Bodenabwehr-Panzer"
+	End
+	
+	NAME:AlliedFutureTankLaserWeapon
+		"Tumultstrahl"
+	End
+	
+	DESC:AlliedFutureTankLaserWeapon
+		"Feuert einen Hochleistungsenergiestrahl auf ein Ziel ab, der mit hoher Wahrscheinlichkeit alle Objekte in seinem Weg in Brand steckt."
+	End
+	
+	DIALOGEVENT:MAIN_FUTURETANK
+		"*Der schwer gepanzerte und computergesteuerte Future Tank X-1 ist ein auf dem Boden praktisch unbesiegbares Kampffahrzeug.  Während seine experimentellen Geschütze nahezu jede Panzerung durchschlagen, kann er mit seinem Tumultstrahl auch größere Feindverbände in die Flucht schlagen."
+	End
+	
+	
+	
+// Giga-Fortress
+	
+	NAME:JapanFortressShip
+		"Giga-Festung"
+	End
+	
+	DESC:JapanFortressShip
+		"Majestätische Meeresfestung voller unaussprechlicher Waffensysteme und dunkler Geheimnisse."
+	End
+	
+	TYPE:JapanFortressShip
+		"Verbesserte Flugabwehr/Bodenabwehr"
+	End
+	
+	NAME:JapanFortressShip_Air
+		"Giga-Festung"
+	End
+	
+	DESC:JapanFortressShip_Air
+		"Diese außergewöhnlich zerstörerischen fliegenden Belagerungssysteme sind ein Symbol der Unbeugsamkeit des Reiches."
+	End
+	
+	TYPE:JapanFortressShip_Air
+		"Verbessertes schweres Bombardement"
+	End
+	
+	NAME:JapanFortressShipTransformAircraftMode
+		"Himmelsfestungsmodus"
+	End
+	
+	DESC:JapanFortressShipTransformAircraftMode
+		"Verwandelt sich in eine Flugeinheit deren Gottesodem-System die Welt in Stücke reißen kann."
+	End
+	
+	NAME:JapanFortressShipTransformShipMode
+		"Seefestung-Modus"
+	End
+	
+	DESC:JapanFortressShipTransformShipMode
+		"Verwandelt sich zurück in eine Meeresfestung, deren unzählige Waffen die See zum Kochen bringen."
+	End
+	
+	DIALOGEVENT:MIIN_GIGAFORTRESS
+		"*Giga-Festungen sind die mächtigsten Waffen des Reichs der aufgehenden Sonne.  In ihrer Primärform machen ihre Kanonen und Photonenraketenwerfer mit feindlichen Flottenverbänden kurzen Prozess.  Darüber hinaus können sie zu Langstrecken-Artillerieplattformen umgebaut werden und an beliebige Positionen auf dem Schlachtfeld fliegen."
+	End
+	
+	
+	
+// Giga-Fortress Core
+	
+	NAME:JapanFortressShipEgg
+		"Giga-Festungskern"
+	End
+	
+	DESC:JapanFortressShipEgg
+		"Spezialdrohnen, die sich in schwer bewaffnete Giga-Festungen verwandeln können."
+	End
+	
+	TYPE:JapanFortressShipEgg
+		"Mobile schwere Artillerieeinheit"
+	End
+	
+	NAME:JapanFortressShipEggUnpackSpecialPower
+		"Entfaltung"
+	End
+	
+	DESC:JapanFortressShipEggUnpackSpecialPower
+		"Initialisiert eine Transformationssequenz in die gewaltige Giga-Festung. Nur auf dem Wasser möglich."
+	End
+	
+	
+	
+// Grinder
+	
+	NAME:SovietGrinderVehicle
+		"Grinder"
+	End
+	
+	DESC:SovietGrinderVehicle
+		"Kriegstaugliche Straßenwalzen, deren Zähne alles an Land und im Wasser zermalmen können."
+	End
+	
+	TYPE:SovietGrinderVehicle
+		"Verbesserte Bodenabwehr"
+	End
+	
+	NAME:NitrousBoostSpecialPower
+		"Turbolader"
+	End
+	
+	DESC:NitrousBoostSpecialPower
+		"Die Aktivierung der Zylinder führt zu einem plötzlichen Geschwindigkeitsschub, der bestens dazu geeignet ist, feige Gegner zu überholen."
+	End
+	
+	DIALOGEVENT:MSIN_GRINDER1
+		"*Grinder sind schwer gepanzerte Amphibienfahrzeuge.  Sie verfügen über keine konventionellen Waffen, können kleinere Ziele aber einfach überrollen und auch größere Gegner in kürzester Zeit vernichten.  Ihre Spezialfähigkeit ist ein kurzer Geschwindigkeitsschub, der ihnen die Zerstörung schnellerer Einheiten ermöglicht."
+	End
+	
+	
+	
+// Harbinger Gunship
+	
+	NAME:AlliedGunshipAircraft
+		"Harbinger-Gunship"
+	End
+	
+	DESC:AlliedGunshipAircraft
+		"Einige führende alliierte Politiker haben vehement gegen die Anschaffung dieses riesigen Flugzeuges protestiert."
+	End
+	
+	TYPE:AlliedGunshipAircraft
+		"Verbesserter Unterstützungsbomber"
+	End
+	
+	NAME:ToggleAlliedGunship
+		"Schnellfeuergeschütz"
+	End
+	
+	DESC:ToggleAlliedGunship
+		"Schaltet um auf eine 25 mm Anti-Personenwaffe, die selbst großen Infanteriestreitkräften keine Chance lässt."
+	End
+	
+	NAME:ToggleAlliedGunshipAutoCannon
+		"Collider-Kanonen"
+	End
+	
+	DESC:ToggleAlliedGunshipAutoCannon
+		"Reaktiviert mit den viel gepriesenen Collider-Kanonen die ultimative Waffe der Alliierten."
+	End
+	
+	DIALOGEVENT:MAIN_HARBINGER
+		"*Harbinger-Gunships sind robuste, mit modernsten Waffensystemen bestückte, Unterstützungseinheiten.  Obwohl ihren Collider-Kanonen nur wenige Ziele etwas entgegenzusetzen haben, greifen sie bei der Neutralisierung kleinerer Ziele meist auf ihre Schnellfeuergeschütze zurück."
+	End
+	
+	
+	
+// Mortar Cycle
+	
+	NAME:SovietMortarCycle
+		"Mörserbike"
+	End
+	
+	DESC:SovietMortarCycle
+		"Hätten Sie nicht so viele Molotow-Cocktails geladen, wären diese aufgemotzten Bikes noch schneller."
+	End
+	
+	TYPE:SovietMortarCycle
+		"Leichtes Bombardement"
+	End
+	
+	NAME:ToggleSovietMortarcycleMolotov
+		"Molotow-Salve"
+	End
+	
+	DESC:ToggleSovietMortarcycleMolotov
+		"Aktiviert den Mörser, mit dem der Sozius im Beiwagen wieder explosive Sprengsätze abfeuern kann."
+	End
+	
+	NAME:ToggleSovietMortarcycleMortar
+		"Porta-Mörser"
+	End
+	
+	DESC:ToggleSovietMortarcycleMortar
+		"Montiert ein leichtes Artilleriegeschütz für Mittel- und Langstreckenangriffe."
+	End
+	
+	DIALOGEVENT:MSIN_MORTARCYCLE
+		"*Mörserbikes sind leichte Artilleriefahrzeuge für schnelle Vorstöße gegen befestigte Stellungen oder langsamere Truppenverbände.  Sie sind in der Lage, blitzschnell von Molotow-Cocktails auf hochexplosive Mörsergranaten umzuschalten."
+	End
+	
+	
+	
+// Pacifier FAV
+	
+	NAME:AlliedArtilleryVehicle
+		"Pacifier FAV"
+	End
+	
+	DESC:AlliedArtilleryVehicle
+		"Wenn diese mobile Feldartillerie ihre Grand Cannons auspackt, beginnt für den Feind ein Höllenregen."
+	End
+	
+	TYPE:AlliedArtilleryVehicle
+		"Verbessertes schweres Bombardement"
+	End
+	
+	NAME:ToggleAlliedArtillerySiegeWeapon
+		"Artillerie stationieren"
+	End
+	
+	DESC:ToggleAlliedArtillerySiegeWeapon
+		"Wird fest im Boden verankert, um den Einsatz der \"Grand Cannon\" Langstreckenartillerie zu ermöglichen."
+	End
+	
+	NAME:ToggleAlliedArtilleryAutoCannon
+		"Artillerie demontieren"
+	End
+	
+	DESC:ToggleAlliedArtilleryAutoCannon
+		"Hebt vom Boden ab, zieht die Grand Cannon ein und aktiviert zwei 7,62 mm Miniguns."
+	End
+	
+	DIALOGEVENT:MAIN_PACIFIER
+		"*Pacifier-Artilleriefahrzeuge neutralisieren feindliche Einheiten mit ihren Grand Cannons aus sicherer Entfernung.  Doch sie müssen stationiert werden, bevor sie feuern können.  Nicht stationierte Pacifier können sich an Land und auf dem Wasser fortbewegen und sich mit schweren MGs verteidigen."
+	End
+	
+	
+	
+// Reaper
+	
+	NAME:SovietHeavyWalkerVehicle
+		"Reaper"
+	End
+	
+	DESC:SovietHeavyWalkerVehicle
+		"Die größeren und robusteren Verwandten des Sickle-Panzers brechen unter dem Gewicht ihrer Granaten und Raketen beinahe zusammen."
+	End
+	
+	TYPE:SovietHeavyWalkerVehicle
+		"Boden-/Flugabwehr-Walker"
+	End
+	
+	NAME:SovietHeavyWalkerDeployedTurret
+		"Reaper-Geschütz"
+	End
+	
+	DESC:SovietHeavyWalkerDeployedTurret
+		"Trotz der fehlenden Beine können diese gescheiterten Prototypen Gegner in ihrer unmittelbaren Nähe immer noch attackieren."
+	End
+	
+	TYPE:SovietHeavyWalkerDeployedTurret
+		"Erweiterte Stützpunktverteidigung"
+	End
+	
+	NAME:LeapDeploySpecialPower
+		"Proto-Sprung"
+	End
+	
+	DESC:LeapDeploySpecialPower
+		"Springt auf das Zielgebiet oder den Feind und macht diesen handlungsunfähig."
+	End
+	
+	DIALOGEVENT:MSIN_REAPER1
+		"*Der Reaper ist das größere und robustere Folgemodell des Sickle-Panzers.  Er ist mit Raketen- und Granatwerfern bestückt, die Angriffe auf mehrere Ziele (einschließlich Flugzeuge) ermöglichen.  Er hat die Fähigkeiten zu springen, allerdings knicken seine Beine bei der Landung oft ein.  Auch nach dem Verlust seiner Beine ist er aber ein äußerst effektives stationäres Geschütz."
+	End
+	
+	
+	
+// Steel Ronin
+	
+	NAME:JapanSentinelVehicle
+		"Stahl-Ronin"
+	End
+	
+	DESC:JapanSentinelVehicle
+		"Die für die Neutralisierung von Panzerdivisionen konzipierten Sentinels sind so kalt wie ihre Piloten."
+	End
+	
+	TYPE:JapanSentinelVehicle
+		"Panzerabwehr-Roboter"
+	End
+	
+	NAME:LaserGlaiveBlastSpecialPower
+		"Energiewelle"
+	End
+	
+	DESC:LaserGlaiveBlastSpecialPower
+		"Erschüttert den Boden mit einer energetischen Entladung, die alles in ihrem Weg vernichtet."
+	End
+	
+	DIALOGEVENT:MIIN_STEELRONIN
+		"*Stahl-Ronin sind pilotengesteuerte Roboter, die selbst unter schwerstem Beschuss in Angriffsposition marschieren, um mit ihren langen Armen mehrere Gegner gleichzeitig zu neutralisieren.  Die Spezialfähigkeit der Ronin ist eine Energiewelle, die alle Ziele in ihrem Wirkungsbereich beschädigt."
+	End
+	
+	
+	
+// Maps
+	
+	MAP:MAP_MP_2_Feasel1_EP1
+		"Au Revoir Reservoir"
+	End
+	
+	MAP:MAP_MP_2_Feasel10_EP1
+		"Rival Schools"
+	End
+	
+	MAP:MAP_MP_2_Feasel12_EP1
+		"Mir's Landing"
+	End
+	
+	MAP:MAP_MP_2_Feasel2_EP1
+		"Island Arena"
+	End
+	
+	MAP:MAP_MP_2_Feasel3_EP1
+		"Hard Lesson"
+	End
+	
+	MAP:MAP_MP_2_Feasel4_EP1_SK
+		"Soundless Hill"
+	End
+	
+	MAP:MAP_MP_2_Feasel5_EP1
+		"Pure Oniage"
+	End
+	
+	MAP:MAP_MP_2_Feasel6_EP1
+		"Grinder Gulch"
+	End
+	
+	MAP:MAP_MP_2_Feasel7_EP1
+		"Kodiak Lake"
+	End
+	
+	MAP:MAP_MP_2_Feasel8_EP1
+		"Twisted Terrace"
+	End
+	
+	MAP:MAP_MP_2_Feasel9_EP1
+		"Killington Cove"
+	End
+	
+	MAP:MAP_MP_3_Feasel1_EP1
+		"Islandgrad"
+	End
+	
+	MAP:MAP_MP_3_Feasel2_EP1
+		"Fried River"
+	End
+	
+	MAP:MAP_MP_4_Feasel10_EP1
+		"Shogun's Alley"
+	End
+	
+	MAP:MAP_MP_4_Feasel11_EP1
+		"Bear Zamok"
+	End
+	
+	MAP:MAP_MP_4_Feasel12_EP1
+		"Assassin's Road"
+	End
+	
+	MAP:MAP_MP_4_Feasel13_EP1
+		"Desolation"
+	End
+	
+	MAP:MAP_MP_4_Feasel2_EP1
+		"Oil Slick"
+	End
+	
+	MAP:MAP_MP_4_Feasel3_EP1
+		"Florazon Basin"
+	End
+	
+	MAP:MAP_MP_4_Feasel4_EP1
+		"Battlebase Quartus"
+	End
+	
+	MAP:MAP_MP_4_Feasel5_EP1_SK
+		"Honor Bound"
+	End
+	
+	MAP:MAP_MP_4_Feasel6_EP1
+		"Trench Warfare"
+	End
+	
+	MAP:MAP_MP_4_Feasel7_EP1
+		"Jungle Stalkers"
+	End
+	
+	MAP:MAP_MP_4_Feasel8_EP1
+		"Isla Nooblar"
+	End
+	
+	MAP:MAP_MP_4_Feasel9_EP1
+		"Corporate Warfare"
+	End
+	
+	MAP:MAP_MP_6_Feasel1_EP1
+		"Apocalypse Mountain"
+	End
+	
+	MAP:MAP_MP_6_Feasel2_EP1
+		"Battlebase Hexis"
+	End
+	
+	MAP:MAP_MP_6_Feasel3_EP1
+		"Holdout Keep"
+	End
+	
+	
+	
+// Credits
+	
+	Credits:ModName
+		"Red Alert 3: Upheaval"
+	End
+	
+	Credits:ModVersion
+		"1.16"
+	End
+	
+	Credits:ModAuthorTitle
+		"Autor"
+	End
+	
+	Credits:ModAuthor1
+		"Bibber"
+	End
+	
+	Credits:ModHomepageTitle
+		"Homepage"
+	End
+	
+	Credits:ModHomepage1
+		"http://www.moddb.com/mods/red-alert-3-upheaval"
+	End
+	
+	Credits:ModHomepage2
+		"http://bibber.eu"
+	End
+	
+	Credits:ModPartnerTitle
+		"Partner-Mods"
+	End
+	
+	Credits:ModPartner1Name
+		"Granatball Reploded"
+	End
+	
+	Credits:ModPartner1Homepage1
+		"http://www.moddb.com/mods/granatball-reploded"
+	End
+	
+	Credits:ModPartner1Homepage2
+		"http://bibber.eu"
+	End
+	
+	Credits:ModPartner2Name
+		"Red Alert 3: Trinity Defense (R3D)"
+	End
+	
+	Credits:ModPartner2Homepage1
+		"http://www.moddb.com/mods/r3d"
+	End
+	
+	
+	
+// GUI
+	
+	GUI:FullGameName
+		"Command & Conquer Red Alert 3: Upheaval"
+	End
+	
+	
+	
+// Version
+	
+	Version:Format2
+		"Red Alert 3: Upheaval 1.16"
+	End

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<AudioFile id="MSIn_MortarCycle" File="AUDIO:Units/Mortar Cycle/MSIn_MortarCycle.wav" PCCompression="XAS" IsStreamedOnPC="true" GUIPreset="Default"/>
+	<AudioFile id="SUMorta_voiAttacka" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttacka.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttackb" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttackb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttackc" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttackc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttackd" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttackd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttacke" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttacke.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttSpeca" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttSpeca.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttSpecb" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttSpecb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttSpecc" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttSpecc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttSpecd" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttSpecd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiAttSpece" File="AUDIO:Units/Mortar Cycle/SUMorta_voiAttSpece.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiCreatea" File="AUDIO:Units/Mortar Cycle/SUMorta_voiCreatea.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiCreateb" File="AUDIO:Units/Mortar Cycle/SUMorta_voiCreateb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiCreatec" File="AUDIO:Units/Mortar Cycle/SUMorta_voiCreatec.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiDiea" File="AUDIO:Units/Mortar Cycle/SUMorta_voiDiea.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMovea" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMovea.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMoveb" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMoveb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMovec" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMovec.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMoved" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMoved.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMovee" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMovee.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMovef" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMovef.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMoveg" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMoveg.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMvAtta" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMvAtta.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMvAttb" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMvAttb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMvAttc" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMvAttc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMvAttd" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMvAttd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiMvAtte" File="AUDIO:Units/Mortar Cycle/SUMorta_voiMvAtte.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelBata" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelBata.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelBatb" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelBatb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelBatc" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelBatc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelBatd" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelBatd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelBate" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelBate.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelecta" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelecta.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelectb" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelectb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelectc" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelectc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelectd" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelectd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelecte" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelecte.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelectf" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelectf.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelUnda" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelUnda.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelUndb" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelUndb.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelUndc" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelUndc.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+	<AudioFile id="SUMorta_voiSelUndd" File="AUDIO:Units/Mortar Cycle/SUMorta_voiSelUndd.wav" GUIPreset="Default" PCCompression="XAS" IsStreamedOnPC="false" />
+</AssetDeclaration>
